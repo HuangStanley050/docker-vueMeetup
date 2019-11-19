@@ -1,4 +1,5 @@
 api/node_modules
 api/nodemon.json
+api/.env
 api/src/graphql-gram-94075-firebase-adminsdk-ejim3-44c474bfe5.json
 client/node_modules
