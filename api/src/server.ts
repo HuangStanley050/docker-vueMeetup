@@ -9,7 +9,7 @@ declare var process: {
     PORT: number;
   };
 };
-const port = normalizePort(process.env.PORT || "8000");
+const port = normalizePort(process.env.PORT || "5000");
 app.set("port", port);
 
 /**
